@@ -1,7 +1,7 @@
 # XY.Flutter
 
 StateManageMent(状态管理)
--  InheritWidget
+-  InheritWidget (ING)
 -  ScopedModel
 -  Redux
 -  Bloc
