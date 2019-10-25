@@ -2,6 +2,7 @@
 
 StateManageMent(状态管理)
 -  InheritWidget (OK)
--  ScopedModel (OK)
+-  ScopedModel (ING)
 -  Redux  
--  Bloc  (ING)
+-  Bloc 
+
